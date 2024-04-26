@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Speed1929
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Bcom IT

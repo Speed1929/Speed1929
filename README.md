@@ -4,7 +4,7 @@
 
 I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
-Currently, I am working as a Data Analyst Intern, where I am improving my skills through practical projects, business problems, and real-world analytics tasks.
+Currently, I am improving my skills through practical projects, business problems, and real-world analytics tasks.
 
 I enjoy learning how data can help organizations make better decisions.
 
